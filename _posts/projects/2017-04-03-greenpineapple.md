@@ -4,12 +4,12 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "telecommunications"
 
 project:
-  title: "Green Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  title: "mssgng.app"
+  type: "Telecommunications app"
+  url: "https://mssgng.app"
   logo: "/assets/images/projects/greenpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
