@@ -4,11 +4,11 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "hydroponics"
 
 project:
-  title: "Yellow Pineapple"
-  type: "Jekyll"
+  title: "MAS"
+  type: "Greenhouse Monitoring and Automation"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
