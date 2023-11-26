@@ -14,7 +14,7 @@ baseurl:             ""
 
 # Assets
 sass:
-  style:            :compressed
+  style:            compressed
 
 # About/contact
 author:
