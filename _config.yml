@@ -1,16 +1,26 @@
-# User config
-author: "DIGIGREENCORP LTD"
-tagline: "Delivering C  O  R  P  O  R  A  T  E™ software since 2020."
-description: "Delivering C&nbsp;&nbsp;O&nbsp;&nbsp;R&nbsp;&nbsp;P&nbsp;&nbsp;O&nbsp;&nbsp;R&nbsp;&nbsp;A&nbsp;&nbsp;T&nbsp;&nbsp;E™ software since 2020."
-keywords: "digi, green, corp"
-email: "ktc@protonmail.ch"
-# linkedin: "https://www.linkedin.com/"
-# twitter: "https://twitter.com/"
-# github: "https://github.com/"
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Site config
-baseurl: "/"
-highlighter: rouge
-sass:
-  sass_dir: assets/scss
-  style: compressed
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde

@@ -1,17 +1,41 @@
-# OS
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+# Ignore docs files
+_gh_pages
+_site
+.ruby-version
 
-# Compilation
-.sass-cache/
-_site/
-
-# Logs and db's
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
 *.log
-*.sql
-*.sqlite
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+.idea
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# grunt-html-validation
+validation-status.json
+validation-report.json
+
+# Folders to ignore
+node_modules
