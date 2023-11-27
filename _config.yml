@@ -2,10 +2,10 @@
 permalink:           pretty
 
 # Setup
-title:               Name
+title:               BH90210
 tagline:             A computer music blog
 description:         >
-  Some tagline. Fix me in the future.
+  A computer 🖥️ music 🎶 blog by <a href="https://github.com/bh90210" target="_blank">@bh90210</a>.
 url:                 https://bh90210.github.io
 paginate:            5
 baseurl:             ""
@@ -16,9 +16,9 @@ sass:
 
 # About/contact
 author:
-  name:              Byron Christodoulou
+  name:              Byron Chris
   url:               https://bh90210.github.io
-  email:             ktc@protonmail.ch
+  email:             ktc@pm.me
 
 # Custom vars
 version:             2.1.0
